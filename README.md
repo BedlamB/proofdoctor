@@ -14,7 +14,7 @@ Features
 
 🤝 Personalised Service – Tailored feedback and corrections for every client.
 
-How It Works
+How It Works:
 
 Visit ProofDoctor.co.uk
 
